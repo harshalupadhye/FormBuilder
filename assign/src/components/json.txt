@@ -1,0 +1,15 @@
+`{
+            "elementType":"input",
+            "elementConfig":{
+                "type":"email",
+                "placeholder":"Your Email"
+            },
+            "value":"",
+            "validation":{
+                "required":true,
+                "minLength":8,
+                "isEmail":true
+            },
+            "valid":false,
+            "touched":false
+        }`
